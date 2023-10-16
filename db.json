@@ -1,0 +1,100 @@
+{
+  "villains": [
+      {
+          "id": 1,
+          "name": "Hannibal Lecter",
+          "alter-ego": "Dr. Fell",
+          "image1-url": "Pictures/Villian Pics/Hannibal Lector/Hannibal Lector(no mask).jpg",
+          "image2-url": "Pictures/Villian Pics/Hannibal Lector/Hannibal Lecter.jpg",
+          "weapon": "Scalpel",
+          "bio": "Dr. Hannibal Lecter is a character created by the American novelist Thomas Harris. Lecter is a serial killer who eats his victims. Before his capture, he was a respected forensic psychiatrist; after his incarceration, he is consulted by FBI agents Will Graham and Clarice Starling to help them find other serial killers",
+          "location": "Florence, Italy",
+          "age": 90,
+          "deceased": false
+      },
+      {
+          "id": 2,
+          "name": "Maleficent",
+          "alter-ego": "Mistress of Evil",
+          "image1-url": "Pictures/Villian Pics/Maleficent/Maleficent Good.jpg",
+          "image2-url": "Pictures/Villian Pics/Maleficent/Maleficent Bad.jpg",
+          "weapon": "Golden Scepter",
+          "bio": "Maleficent is a powerful fairy living in the Moors, a magical forest realm bordering a human kingdom. As a child, she meets a human peasant boy named Stefan, and they both fall in love with each other. However, as they get older, the two grow apart, with Stefan's love being overshadowed by his ambition to be a king, while Maleficent becomes the protector of the Moors.",
+          "location": "The Moors, Magical Forest",
+          "age": 41,
+          "deceased": false
+      },
+      {
+          "id": 3,
+          "name": "Jack the Ripper",
+          "alter-ego": "The Whitechapel Murderer",
+          "image1-url": "Pictures/Villian Pics/Jack the Ripper/JTR2.jpg",
+          "image2-url":"Pictures/Villian Pics/Jack the Ripper/JTR1.jpg", 
+          "weapon": "Liston Knife",
+          "bio": "Jack the Ripper, Pseudonymous murderer of at least five women, all prostitutes, in or near London's Whitechapel district, from Aug. 7 to Nov. 10, 1888. The throat of each victim was cut, and usually the body was mutilated in a manner indicating the murderer had considerable knowledge of human anatomy.",
+          "location": "Whitechapel District London, England",
+          "age": 23,
+          "deceased": true
+      },
+      {
+          "id": 4,
+          "name": "Mystique",
+          "alter-ego": "Raven Darkholme",
+          "image1-url": "Pictures/Villian Pics/Mystique/Mystique 2.jpg",
+          "image2-url": "Pictures/Villian Pics/Mystique/Mystique.jpg",
+          "weapon": "Hand to hand combat and morphing abilities",
+          "bio": "Mystique's origins remain unknown - her shapeshifting powers mean that her true age remains enigmatic. Her earliest attested appearance dates back to the years around 1900, when she lived in a male guise as a 'consulting detective' who established a romantic relationship with her reality's version of Irene Adler - biographical details which imply she is in fact Sherlock Holmes.",
+          "location": "Unknown",
+          "age": "Unknown",
+          "deceased": false
+      },
+      {
+        "id": 5,
+        "name": "Medusa",
+        "alter-ego": "",
+        "image1-url": "Pictures/Villian Pics/Medusa/medusa-1.jpeg",
+        "image2-url": "Pictures/Villian Pics/Medusa/medusa-2.jpeg",
+        "weapon": "Snakes",
+        "bio": "Medusa is a Gorgon found in ancient Greek mythology. Although she is mortal, her hair full of snakes makes her a formidable enemy.",
+        "location": "Sarpedon",
+        "age": "",
+        "deceased": true 
+    },
+    {
+        "id": 6,
+        "name": "Erik Killmonger",
+        "alter-ego": "N'Jadaka",
+        "image1-url": "Pictures/Villian Pics/Killmonger/killmonger-1.jpeg",
+        "image2-url": "Pictures/Villian Pics/Killmonger/killmonger-2.jpeg",
+        "weapon": "Bare hands",
+        "bio": "Killmonger is a Wakanda-born supervillain who grew up abroad in the United States. He possesses superior intellect and martial art skills. Killmonger is known for his repeated attempts to battle Black Panther and claim the throne of Wakanda.",
+        "location": "Wakanda",
+        "age": 33,
+        "deceased": true
+    },
+    {
+        "id": 7,
+        "name": "Joe Goldberg",
+        "alter-ego": "Jonathan Moore",
+        "image1-url": "Pictures/Villian Pics/Joe/joe-1.jpg",
+        "image2-url": "Pictures/Villian Pics/Joe/joe-2.jpeg",
+        "weapon": "Binoculars",
+        "bio": "Joe Goldberg is a fictional stalker and serial killer. Joe loves rare books and women he barely knows. Though he recently lived in Los Angeles and London, it is rumored that Joe is back home in NYC. Xoxo.",
+        "location": "Manhattan",
+        "age": 35,
+        "deceased": false
+    },
+    {
+        "id": 8,
+        "name": "Michael Myers",
+        "alter-ego": "",
+        "image1-url": "Pictures/Villian Pics/Michael Myers/mike-1.jpeg",
+        "image2-url": "Pictures/Villian Pics/Michael Myers/mike-2.jpeg",
+        "weapon": "Chef Knife",
+        "bio": "Michael Myers is a serial killer from John Carpenter's Halloween films. After escaping Smith's Grove Sanitarium, Myers hunts Laurie Strode for the rest of his life.",
+        "location": "Haddonfield, Illinois",
+        "age": 66,
+        "deceased": false 
+    }
+  ]
+}
