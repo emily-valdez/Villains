@@ -3,46 +3,44 @@
         {
             "id": 1,
             "name": "Hannibal Lecter",
-            "alter-ego": "Dr. Fell",
+            "alter-ego": "",
             "image-url": "",
-            "weapon": "Knives",
-            "bio": "Dr. Hannibal Lecter is a character created by the American novelist Thomas Harris. Lecter is a serial killer who eats his victims. Before his capture, he was a respected forensic psychiatrist; after his incarceration, he is consulted by FBI agents Will Graham and Clarice Starling to help them find other serial killers",
-            "location": "Florence, Italy",
-            "age": 90,
-            "deceased": false
+            "weapon": "",
+            "bio": "",
+            "age": "",
+            "deceased": 
         },
         {
             "id": 2,
             "name": "Maleficent",
-            "alter-ego": "Mistress of Evil",
+            "alter-ego": "",
             "image-url": "",
-            "weapon": "Golden Scepter",
-            "bio": "Maleficent is a powerful fairy living in the Moors, a magical forest realm bordering a human kingdom. As a child, she meets a human peasant boy named Stefan, and they both fall in love with each other. However, as they get older, the two grow apart, with Stefan's love being overshadowed by his ambition to be a king, while Maleficent becomes the protector of the Moors.",
-            "location": "The Moors, Magical Forest",
-            "age": 41,
-            "deceased": false
+            "weapon": "",
+            "bio": "",
+            "age": "",
+            "deceased": 
         },
         {
             "id": 3,
             "name": "Jack the Ripper",
-            "alter-ego": "The Whitechapel Murderer",
+            "alter-ego": "",
             "image-url": "",
-            "weapon": "Liston Knife",
-            "bio": "Jack the Ripper, pseudonymous murderer of at least five women, in or near London's Whitechapel district, from Aug. 7 to Nov. 10, 1888. Though Jack the Ripper was never apprehended, the killings indicated the murderer had considerable knowledge of human anatomy.",
-            "location": "Whitechapel, London",
-            "age": 23,
-            "deceased": true
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": "",
+            "deceased": 
         },
         {
             "id": 4,
             "name": "Mystique",
-            "alter-ego": "Raven Darkholme",
+            "alter-ego": "",
             "image-url": "",
-            "weapon": "Hands",
-            "bio": "Mystique's origins remain unknown - her shapeshifting powers mean that her true age remains enigmatic. Her earliest attested appearance dates back to the years around 1900, when she lived in a male guise as a 'consulting detective' who established a romantic relationship with her reality's version of Irene Adler - biographical details which imply she is in fact Sherlock Holmes.",
+            "weapon": "",
+            "bio": "",
             "location": "",
             "age": "",
-            "deceased": false
+            "deceased":
         },
         {
             "id": 5,
