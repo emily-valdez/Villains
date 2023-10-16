@@ -69,24 +69,24 @@
         {
             "id": 7,
             "name": "Joe Goldberg",
-            "alter-ego": "",
-            "image-url": "",
-            "weapon": "",
-            "bio": "",
-            "location": "",
-            "age": ,
-            "deceased": 
+            "alter-ego": "Jonathan Moore",
+            "image-url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Penn_Badgley_as_Joe_Goldberg_1.png/220px-Penn_Badgley_as_Joe_Goldberg_1.png",
+            "weapon": "Binoculars",
+            "bio": "Joe Goldberg is a fictional stalker and serial killer. Joe loves rare books and women he barely knows. Though he recently lived in Los Angeles and London, it is rumored that Joe is back home in NYC. Xoxo.",
+            "location": "Manhattan",
+            "age": 35,
+            "deceased": false
         },
         {
             "id": 8,
             "name": "Michael Myers",
             "alter-ego": "",
-            "image-url": "",
-            "weapon": "",
-            "bio": "",
-            "location": "",
-            "age": ,
-            "deceased": 
+            "image-url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MichaelMyers2018.jpg/220px-MichaelMyers2018.jpg",
+            "weapon": "Knife",
+            "bio": "Michael Myers is a serial killer from John Carpenter's Halloween films. After escaping Smith's Grove Sanitarium, Myers hunts Laurie Strode for the rest of his life.",
+            "location": "Haddonfield, Illinois",
+            "age": 66,
+            "deceased": false 
         }
     ]   
 }
