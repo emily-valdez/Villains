@@ -1,0 +1,92 @@
+{
+    "villains": [
+        {
+            "id": 1,
+            "name": "Hannibal Lecter",
+            "alter-ego": "Dr. Fell",
+            "image-url": "",
+            "weapon": "Scalpel",
+            "bio": "Dr. Hannibal Lecter is a character created by the American novelist Thomas Harris. Lecter is a serial killer who eats his victims. Before his capture, he was a respected forensic psychiatrist; after his incarceration, he is consulted by FBI agents Will Graham and Clarice Starling to help them find other serial killers",
+            "location": "Florence, Italy",
+            "age": ,
+            "deceased": false
+        },
+        {
+            "id": 2,
+            "name": "Maleficent",
+            "alter-ego": "",
+            "image-url": "",
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": ,
+            "deceased": 
+        },
+        {
+            "id": 3,
+            "name": "Jack the Ripper",
+            "alter-ego": "",
+            "image-url": "",
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": ,
+            "deceased": 
+        },
+        {
+            "id": 4,
+            "name": "Mystique",
+            "alter-ego": "",
+            "image-url": "",
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": ,
+            "deceased": 
+        },
+        {
+            "id": 5,
+            "name": "Medusa",
+            "alter-ego": "",
+            "image-url": "https://cdn4.vectorstock.com/i/1000x1000/60/13/medusa-greek-myth-creature-pop-art-vector-20706013.jpg",
+            "weapon": "snakes",
+            "bio": "",
+            "location": "Sarpedon",
+            "age": ,
+            "deceased": true 
+        },
+        {
+            "id": 6,
+            "name": "Killmonger",
+            "alter-ego": "",
+            "image-url": "",
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": ,
+            "deceased": 
+        },
+        {
+            "id": 7,
+            "name": "Joe Goldberg",
+            "alter-ego": "",
+            "image-url": "",
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": ,
+            "deceased": 
+        },
+        {
+            "id": 8,
+            "name": "Michael Myers",
+            "alter-ego": "",
+            "image-url": "",
+            "weapon": "",
+            "bio": "",
+            "location": "",
+            "age": ,
+            "deceased": 
+        }
+    ]   
+}
